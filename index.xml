@@ -239,6 +239,24 @@ Three
     </item>
     
     <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;strong&gt;[28/02/2022]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://openreview.net/forum?id=YWDmiiJ4hYP&#34;&gt;Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data&lt;/a&gt; has been accepted for publication at the Medical Imaging with Deep Learning conference &lt;strong&gt;(MIDL&#39;22)&lt;/strong&gt;, with &lt;strong&gt;oral&lt;/strong&gt; recommendation.
+</description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
