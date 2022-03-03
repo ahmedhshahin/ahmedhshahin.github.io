@@ -7,7 +7,7 @@
     <description>Ahmed Shahin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Ahmed Shahin</title>
       <link>/</link>
     </image>
@@ -30,6 +30,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data</title>
+      <link>/publication/midl22/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/midl22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network with Attention Modules for Pneumonia Detection</title>
+      <link>/publication/3ict/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/3ict/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -110,6 +126,22 @@
     </item>
     
     <item>
+      <title>FAIRS: Soft Focus Generator and Attention for Robust Object Segmentation from Extreme Points</title>
+      <link>/publication/arxiv2020/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extreme Points Derived Confidence Map as a Cue for Class-Agnostic Interactive Segmentation Using Deep Neural Network</title>
+      <link>/publication/miccai19/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/miccai19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -160,15 +192,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -252,7 +284,7 @@ Three
 
 
 
-&lt;strong&gt;[28/02/2022]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://openreview.net/forum?id=YWDmiiJ4hYP&#34;&gt;Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data&lt;/a&gt; has been accepted for publication at the Medical Imaging with Deep Learning conference &lt;strong&gt;(MIDL&#39;22)&lt;/strong&gt;, with &lt;strong&gt;oral&lt;/strong&gt; recommendation.
+&lt;strong&gt;[28/02/2022]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://openreview.net/forum?id=YWDmiiJ4hYP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data&lt;/a&gt; has been accepted for publication at the Medical Imaging with Deep Learning conference &lt;strong&gt;(MIDL&#39;22)&lt;/strong&gt;, with &lt;strong&gt;oral&lt;/strong&gt; recommendation.
 </description>
     </item>
     

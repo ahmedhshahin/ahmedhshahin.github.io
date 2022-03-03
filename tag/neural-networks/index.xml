@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural networks | Ahmed Shahin</title>
+    <link>/tag/neural-networks/</link>
+      <atom:link href="/tag/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>neural networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>neural networks</title>
+      <link>/tag/neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data</title>
+      <link>/publication/midl22/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/midl22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

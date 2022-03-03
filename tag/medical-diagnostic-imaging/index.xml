@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical diagnostic imaging | Ahmed Shahin</title>
+    <link>/tag/medical-diagnostic-imaging/</link>
+      <atom:link href="/tag/medical-diagnostic-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>medical diagnostic imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>medical diagnostic imaging</title>
+      <link>/tag/medical-diagnostic-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Neural Network with Attention Modules for Pneumonia Detection</title>
+      <link>/publication/3ict/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/3ict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
