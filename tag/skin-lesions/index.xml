@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>skin lesions | Ahmed Shahin</title>
+    <link>/tag/skin-lesions/</link>
+      <atom:link href="/tag/skin-lesions/index.xml" rel="self" type="application/rss+xml" />
+    <description>skin lesions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>skin lesions</title>
+      <link>/tag/skin-lesions/</link>
+    </image>
+    
+    <item>
+      <title>Deep Convolutional Encoder-Decoders with Aggregated Multi-Resolution Skip Connections for Skin Lesion Segmentation</title>
+      <link>/publication/isbi19/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/isbi19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Ensemble Learning for Skin Lesion Classification from Dermoscopic Images</title>
+      <link>/publication/cibec/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cibec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

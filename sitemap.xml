@@ -89,11 +89,29 @@
     <loc>/tag/interactive-segmentation/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/convolutional-neural-networks/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/isbi19/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/melanoma/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/pyramid-pooling-modules/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/skin-lesions/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cibec/</loc>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
@@ -103,9 +121,6 @@
   </url><url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
   </url>
